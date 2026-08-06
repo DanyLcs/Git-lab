@@ -4,3 +4,5 @@ Demons
 Sirens
 Don't forget me
 Thunder
+Natural
+Shots
